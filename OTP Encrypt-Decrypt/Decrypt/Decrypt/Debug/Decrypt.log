@@ -1,0 +1,15 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  source.c
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(15,2): warning C4047: 'return': 'int *' differs in levels of indirection from 'int (*)[20]'
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(6,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(20,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(30,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(22,7): warning C4101: 'read': unreferenced local variable
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(74,32): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(74,32): warning C4024: 'unxor': different types for formal and actual parameter 2
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(61,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(64,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(74,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(43): warning C4172: returning address of local variable or temporary: output
+C:\Users\Kyler\source\repos\Decrypt\Decrypt\source.c(15): warning C4172: returning address of local variable or temporary: numz
+  Decrypt.vcxproj -> C:\Users\Kyler\source\repos\Decrypt\Debug\Decrypt.exe
