@@ -1,0 +1,3 @@
+﻿blockchain.obj : error LNK2019: unresolved external symbol add referenced in function testBlockChain
+blockchain.obj : error LNK2019: unresolved external symbol verify referenced in function testBlockChain
+C:\Users\Kyler\source\repos\Assignment2\Assignment2\x64\Debug\Assignment2.exe : fatal error LNK1120: 2 unresolved externals

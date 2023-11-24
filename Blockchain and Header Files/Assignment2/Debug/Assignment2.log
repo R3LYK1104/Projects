@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  blockchain.c
+C:\Users\Kyler\source\repos\Assignment2\Assignment2\Assignment2\blockchain.c(42,32): warning C4028: formal parameter 1 different from declaration
+C:\Users\Kyler\source\repos\Assignment2\Assignment2\Assignment2\blockchain.c(43,20): warning C4133: 'initializing': incompatible types - from 'unsigned char *' to 'Digest *'
+C:\Users\Kyler\source\repos\Assignment2\Assignment2\Assignment2\blockchain.c(53,128): warning C4098: 'verify': 'void' function returning a value
+C:\Users\Kyler\source\repos\Assignment2\Assignment2\Assignment2\blockchain.c(58,13): warning C4098: 'verify': 'void' function returning a value
+  Assignment2.vcxproj -> C:\Users\Kyler\source\repos\Assignment2\Assignment2\Debug\Assignment2.exe
